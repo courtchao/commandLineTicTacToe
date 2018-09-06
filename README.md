@@ -4,6 +4,6 @@ To get started run
 ```
 $ npm install
 
-$ npm save
+$ npm start
 ```
 and then play from your command line! 
