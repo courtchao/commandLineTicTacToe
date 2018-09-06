@@ -3,6 +3,9 @@
 
   let board = '';
 
+  let player1 = true;
+
+  //show that it's player1 or player2 (not player1)
 
   //
   // Start the prompt
@@ -19,6 +22,7 @@
     //
     console.log('Command-line input received:');
     console.log('  move: ' + result.MoveSelection);
+    //console.log(board);
   });
 
   //   A   B   C
